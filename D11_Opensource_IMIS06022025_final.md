@@ -13,7 +13,7 @@
 
 [*3.1*	*Functional Modules of Base IMIS*](#_toc189741404)
 
-[*3.2*	*Roles and Permissions	18**](#_toc189741405)
+[*3.2*	*Roles and Permissions	18*](#_toc189741405)
 
 [*3.3*	*IMIS Driven Sanitation Service Delivery Chain*](#_toc189741406)
 
@@ -66,7 +66,7 @@
 
 **2021-2022:**
 
-- <p style='text-align:justify'>IMIS was completely redesigned, restructured, and redeveloped from scratch by ISPL, incorporating capabilities to support the CWIS approach in the overall planning, management, and monitoring & evaluation of sanitation systems and services</p>. 
+- <p style='text-align:justify'>IMIS was completely redesigned, restructured, and redeveloped from scratch by ISPL, incorporating capabilities to support the CWIS approach in the overall planning, management, and monitoring & evaluation of sanitation systems and services.</p> 
 - <p style='text-align:justify'>The new ISPL version IMIS was implemented in Mahalaxmi Municipality, Nepal, to support ENPHO in implementing ISO 24521.</p>
 
 **2023:** 
