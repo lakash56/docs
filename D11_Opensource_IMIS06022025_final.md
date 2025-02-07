@@ -105,7 +105,7 @@
 
 
 ## 3.1 <a name="_toc189741404"></a>Functional Modules of Base IMIS
-   <p style='text-align:justify'>Base IMIS comprises of ten functional modules ([Figure 2](#_ref189688233)), seven of which are core modules to manage sanitation systems and services in CWIS approach, whereas remaining three value-added modules enhance complementary municipal services, including property tax collection, solid waste management, and water supply billing. Combined with the **Urban Management Decision Support System (UMDSS)**—a powerful tool for spatial analysis, mapping, and decision-making—IMIS empowers municipalities to adopt CWIS principles while contributing to broader urban governance.</p>
+   <p style='text-align:justify'>Base IMIS comprises of ten functional modules ([Figure 2](#_ref189688233)), seven of which are core modules to manage sanitation systems and services in CWIS approach, whereas remaining three value-added modules enhance complementary municipal services, including property tax collection, solid waste management, and water supply billing. Combined with the <b>Urban Management Decision Support System (UMDSS)</b>—a powerful tool for spatial analysis, mapping, and decision-making—IMIS empowers municipalities to adopt CWIS principles while contributing to broader urban governance.</p>
 
    The seven core modules include:
 
